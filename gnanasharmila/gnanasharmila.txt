@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+          <tittle>Welcome</title>
+</head>
+<body>
+          <h1>happy life/h1>
+</body>
+</html>
