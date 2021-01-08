@@ -6,8 +6,7 @@
 * **MOBILE USERS**  please enter the site with desktop mode 
 You may get that in "options".
 								or
-								[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-   * **INSTALL**  Github for  [Android](https://play.google.com/store/apps/details?id=com.github.android&hl=en_IN&gl=US)   [IOS](https://apps.apple.com/us/app/github/id1477376905)
+								 Github for  [Android](https://play.google.com/store/apps/details?id=com.github.android&hl=en_IN&gl=US)   [IOS](https://apps.apple.com/us/app/github/id1477376905)
 
 ## STEP 1:- (FORK) 🍴
 
