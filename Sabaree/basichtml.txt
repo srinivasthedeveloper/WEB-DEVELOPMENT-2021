@@ -1,0 +1,24 @@
+size of headers:
+	h1 = 32px 2em (px=pixels,1em=16px,em=emphasis,vh(visual height))
+        h2 = 24px 1.5em
+	h3 = 20.8px 1.3em
+	h4 = 16px 1em
+	h5 = 12.8px 0.8em
+	h6 = 11.2px 0.7em
+	p = 16px 1em
+anchor tag is used to link URL without showing it
+syntax:
+	<a href="www.themoviesflix.com"> text to be appear </a>    
+(if we use = within a tag is known as attributes syntax is: keyword="value")
+image tag:
+	<img src="image name.format" alt="this is a puppy image" width="700" height="400">
+	is used to display image in webpage with size specifications
+	attributes inside image tag:
+		src = "file path with extention"
+		alt = "image not found"
+		width = "size in px em or vw"
+		hiegt = "size in px em or vh"
+empty tags:
+	<br> break's line used to new line
+	<hr> horizondal line break 
+	<pre> home work part
