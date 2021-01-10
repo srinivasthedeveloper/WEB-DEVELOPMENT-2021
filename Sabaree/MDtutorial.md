@@ -9,8 +9,8 @@ italic style :
               *this text will be italic*
               _this text will be italic_
 bold style:
-           **this text will be italic**
-           __this text will be italic__
+           **this text will be Bold**
+           __this text will be Bold__
 list:
      unodered:
              * first value
